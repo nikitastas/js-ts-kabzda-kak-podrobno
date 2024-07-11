@@ -1,4 +1,4 @@
-const User = () => {
+export const User = () => {
     return <div>
         Nikita
         <button>delete</button>
